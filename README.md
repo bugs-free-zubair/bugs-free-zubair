@@ -3,7 +3,7 @@
 ##### Web Devoloper
 
 # 💫 About Me:
-CSc Last year Student.
+BSc On CSE Last year Student.
 
 - 🔭 I’m currently developing my skills to be A Front-End Developer...
 - 🌱 I’m currently learning web developing...
