@@ -8,9 +8,10 @@ BSc On CSE Last year Student.
 - 👯 I’m looking to collaborate with web developer...
 -    Most interesting things in codding are errors, 
      i like to handle it.
-     
-###### If you are facing any trouble with errors you can share with me. 
-###### i will be glad to help you.
+
+If you are facing any trouble with errors you can share with me. 
+
+i will be glad to help you.
 
 ###### contact me on Telegram: @Rocko_95
 -->
