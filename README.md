@@ -9,9 +9,7 @@ BSc On CSE Last year Student.
 -    Most interesting things in codding are errors, 
      i like to handle it.
 
-If you are facing any trouble with errors you can share with me. 
-
-i will be glad to help you.
+FELL FREE TO TALK ABOUT ERRORS.
 
 ###### contact me on Telegram: @Rocko_95
 -->
