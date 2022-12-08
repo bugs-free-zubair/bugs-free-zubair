@@ -38,5 +38,9 @@ FELL FREE TO TALK ABOUT ERRORS.
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codingwithrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/
 </p>
+     
+     # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codingwithrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/
