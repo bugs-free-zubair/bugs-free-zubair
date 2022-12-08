@@ -32,10 +32,10 @@ FELL FREE TO TALK ABOUT ERRORS.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/425644966232197/) 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%133877F2.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801622559988) 
 
-
+[![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithrock&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## :computer: Technologies that I know
@@ -60,7 +60,7 @@ FELL FREE TO TALK ABOUT ERRORS.
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-[![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
