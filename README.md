@@ -82,7 +82,7 @@ FELL FREE TO TALK ABOUT ERRORS.
  
  
  
-## ON Going Project: https://puran-mobile.web.app/
+
  
 
 
