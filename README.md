@@ -40,6 +40,9 @@ FELL FREE TO TALK ABOUT ERRORS.
 
 
 
+<div>  [![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in) </div>
+
+
  [![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
