@@ -1,15 +1,14 @@
-### Hi there 👋 I'm Zubair
-
-![I am a Junior Front-end developer. ] <p>  </p>
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/D5616AQF1TZxf0LAbEw/profile-displaybackgroundimage-shrink_350_1400/0/1670480929335?e=1675900800&v=beta&t=wo8boNKVPGlwmkeS8MmfkdqIkqiUqH_kk_Ogs0c5EWI" width="350" title="hover text">
-  <img src="https://media-exp1.licdn.com/dms/image/D5616AQF1TZxf0LAbEw/profile-displaybackgroundimage-shrink_350_1400/0/1670480929335?e=1675900800&v=beta&t=wo8boNKVPGlwmkeS8MmfkdqIkqiUqH_kk_Ogs0c5EWI" width="350" alt="accessibility text">
+  <img src="https://media-exp1.licdn.com/dms/image/D5616AQF1TZxf0LAbEw/profile-displaybackgroundimage-shrink_350_1400/0/1670480929335?e=1675900800&v=beta&t=wo8boNKVPGlwmkeS8MmfkdqIkqiUqH_kk_Ogs0c5EWI" width="100%" title="hover text">
 </p>
 
+
+
+
+
+
+### Hi there 👋 I'm Zubair
 
 
 
