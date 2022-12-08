@@ -17,7 +17,7 @@
 
 ## ON Going Project: https://puran-mobile.web.app/
 
-# 💫 About Me:
+
 BSc On CSE Last year Student.
 
 - 🔭 I’m currently developing my skills to be Web Devloper...
