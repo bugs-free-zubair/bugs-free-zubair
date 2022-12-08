@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Zubair
 
-![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
+![I am a Junior Front-end developer. ] <p>  </p>
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 ##### Web Devoloper
 
