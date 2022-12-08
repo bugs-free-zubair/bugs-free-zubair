@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Zubair
+
+![I am a Junior Front-end developer. ](https://github.com/mir-hussain/mir-hussain/blob/main/images/githubcover.png)
+
 ##### Web Devoloper
 
 ## ON Going Project: https://puran-mobile.web.app/
