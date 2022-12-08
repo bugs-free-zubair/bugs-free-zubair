@@ -15,7 +15,6 @@
 
 ##### Web Devoloper
 
-## ON Going Project: https://puran-mobile.web.app/
 
 
 BSc On CSE Last year Student.
@@ -78,6 +77,12 @@ FELL FREE TO TALK ABOUT ERRORS.
  </p>
  
  ![](https://github-readme-streak-stats.herokuapp.com/?user=codingwithrock&theme=dark&hide_border=false)<br/>
+ 
+ 
+ 
+ 
+ 
+## ON Going Project: https://puran-mobile.web.app/
  
 
 
