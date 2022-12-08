@@ -16,6 +16,7 @@ FELL FREE TO TALK ABOUT ERRORS.
 ###### contact me on Telegram: @Rocko_95
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nm-zubiar-alam/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/groups/425644966232197) 
 
 ## :computer: Technologies that I know
 <br>
