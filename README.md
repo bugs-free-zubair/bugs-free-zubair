@@ -58,20 +58,12 @@ FELL FREE TO TALK ABOUT ERRORS.
 
 
 
-
-
-## :chart_with_upwards_trend: Current Stats
-
 <br />
 <p align="center">
-
-
 
 # 📊 GitHub Stats:
 
  </p>
- 
- 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=codingwithrock&theme=dark&hide_border=false)<br/>
  
 
