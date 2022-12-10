@@ -30,7 +30,7 @@ FELL FREE TO TALK ABOUT ERRORS.
 
 
  ## Currently Working On Portfolio
-[![porfolio Live Link](https://img.shields.io/badge/Porfolio+Live+Link-30077B5.svg?logo=profile&logoColor=white)](https://github.com/codingwithrock/my-portfolio) 
+[![porfolio Live Link](https://img.shields.io/badge/Porfolio+Live+Link-30077B5.svg?logo=profile&logoColor=black)](https://github.com/codingwithrock/my-portfolio) 
 
 
 
