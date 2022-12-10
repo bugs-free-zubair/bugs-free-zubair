@@ -29,8 +29,8 @@ FELL FREE TO TALK ABOUT ERRORS.
 
 
 
- #### Currently Wworking on portfolio. 
-[![porfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=porfolio&logoColor=white)](https://www.linkedin.com/in/zubiar/) 
+ ### Currently Wworking on portfolio. 
+[![porfolio](https://img.shields.io/badge/porfolio-30077B5.svg?logo=profile&logoColor=white)](https://github.com/codingwithrock/my-portfolio) 
 
 
 
