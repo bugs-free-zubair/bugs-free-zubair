@@ -25,9 +25,12 @@ BSc On CSE Last year Student.
      i like to handle it.
 
 FELL FREE TO TALK ABOUT ERRORS.
-[![porfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=porfolio&logoColor=white)](https://www.linkedin.com/in/zubiar/) 
 
-#### Currently Wworking on portfolio. 
+
+
+
+ #### Currently Wworking on portfolio. 
+[![porfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=porfolio&logoColor=white)](https://www.linkedin.com/in/zubiar/) 
 
 
 
