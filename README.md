@@ -32,7 +32,7 @@ FELL FREE TO TALK ABOUT ERRORS.
 
 
  ## Currently Working On Developer Chat
- [![Live Site Link](https://img.shields.io/badge/Live-Site-Link-60077B5.svg?logo=profile&logoColor=black)](https://work-flow.live) 
+ [![Live Site Link](https://img.shields.io/badge/Live_Site_Link-60077B5.svg?logo=profile&logoColor=black)](https://work-flow.live) 
  
 
  ## Repository Link
