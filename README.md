@@ -35,10 +35,6 @@ FELL FREE TO TALK ABOUT ERRORS.
  [![Live Site Link](https://img.shields.io/badge/Live_Site_Link-60077B5.svg?logo=profile&logoColor=black)](https://work-flow.live) 
  
 
- ## Repository Link
-
- [![Repository](https://img.shields.io/badge/Repository-Link-60077B5.svg?logo=profile&logoColor=black)](https://github.com/Coder-Work-Flow/Developer-chat-client-side) 
- 
 
 
 
