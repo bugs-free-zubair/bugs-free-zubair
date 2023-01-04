@@ -19,12 +19,12 @@
 
 BSc On CSE Last year Student.
 
-- 🔭 I’m currently developing my skills to become Master at react...
+- 🔭 Currently, I work as a project manager and full-stack developer. ...
 - 👯 I’m looking to collaborate with web developer...
--    Most interesting things in codding are errors, 
-     i like to handle it.
+-    My favorite part of my job is helping people with their errors and problems, 
 
-FELL FREE TO TALK ABOUT ERRORS.
+
+FELL FREE TO TALK ABOUT ERRORS || PROBLEMS.
 
 
 
