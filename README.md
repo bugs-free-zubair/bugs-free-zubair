@@ -30,13 +30,11 @@
 
 
 
-
-###### contact me on Telegram: @Rocko_95
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubiar/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/425644966232197/) 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%133877F2.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801622559988) 
-[![porfolio Live Link](https://img.shields.io/badge/Porfolio_Live_Link-60077B5.svg?logo=profile&logoColor=black)](https://my-portfolio-472b0.web.app/) 
+
 
 
 [![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in)
