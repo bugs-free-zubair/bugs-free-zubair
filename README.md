@@ -14,7 +14,7 @@
 
 
 - 🔭 Currently, I work  as a full-stack developer.
-- 👯 I’m looking to collaborate with Full-stack Developer.
+- 👯 I’m looking to collaborate with project mannager.
 -    My favorite part of my job is working with new things and make something diffarent.
 
 
