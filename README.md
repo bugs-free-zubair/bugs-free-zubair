@@ -13,18 +13,10 @@
 
 
 
-##### Web Devoloper
+- 🔭 Currently, I work  as a full-stack developer.
+- 👯 I’m looking to collaborate with Full-stack Developer.
+-    My favorite part of my job is working with new things and make something diffarent.
 
-
-
-BSc On CSE Last year Student.
-
-- 🔭 Currently, I work as a project manager and full-stack developer.
-- 👯 I’m looking to collaborate with web developer.
--    My favorite part of my job is helping people with their errors and problems.
-
-
-FELL FREE TO TALK ABOUT ERRORS || PROBLEMS.
 
 
 
