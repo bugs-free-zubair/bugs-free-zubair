@@ -1,31 +1,4 @@
 
-<p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/D5616AQF1TZxf0LAbEw/profile-displaybackgroundimage-shrink_350_1400/0/1670480929335?e=1675900800&v=beta&t=wo8boNKVPGlwmkeS8MmfkdqIkqiUqH_kk_Ogs0c5EWI" width="100%" title="hover text">
-</p>
-
-
-
-
-
-
-### Hi there 👋 I'm Zubair
-
-
-
-
-- 🔭 Currently, I work  as a full-stack developer.
-- 👯 I’m looking to collaborate with project manager.
--    My favorite part of my job is working with new things and make something diffarent.
-
-
-
-
-
-
-
-
-
-
 
 
 ## 🌐 Socials:
