@@ -30,7 +30,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubiar/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/425644966232197/) 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%133877F2.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801622559988) 
 
 
