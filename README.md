@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=codingwithrock&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![GitHub metrics](https://metrics.lecoq.io/sabikonnaharsr)  
+![GitHub metrics](https://metrics.lecoq.io/bugs-free-zubair)  
 
 
 </p><br/>
