@@ -11,6 +11,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codex-zubair&layout=compact)
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codex-zubair)](https://github.com/anuraghazra/github-readme-stats)
+
 </p><br/>
 
 
